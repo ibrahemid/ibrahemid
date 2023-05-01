@@ -1,1 +1,3 @@
-![Ibrahemid](ibrahemid.gif)
+<div align="center">
+  <img src="ibrahemid.gif" alt="Ibrahemid" width="100%">
+</div>
